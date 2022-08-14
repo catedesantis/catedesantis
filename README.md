@@ -1,16 +1,22 @@
-### Hi there 👋
+## Catherine DeSantis
+![image](https://user-images.githubusercontent.com/1920038/184516843-1dd6a496-2649-4fae-8a44-bf58de6db565.png)
 
-<!--
-**catedesantis/catedesantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[Home: Catherine DeSantis](README.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My University of South Carolina Experience](My_U_of_SC_Experience.md)
+
+# About Me
+
+I am Catherine DeSantis and I am a Biology major with a minor in Medical Anthropology. I am on the Pre-Veterinary track and am intended to be the first graduate at UofSC with a Medical Anthropology minor. I am on the Accelerated Study Plan; In Spring of 2023, I will complete my degree in the span of three years. Last semester alone, I took 21 credits (nine courses) and am dually enrolled at both the University of South Carolina and at the University of Florida’s Vet school. I was accepted to take one of their online courses after applying. I am currently applying to Vet schools right now and have taken the GRE. When I was accepted into UofSC, I was offered a scholarship. I have since been rewarded with a Merit-Based scholarship, a portion of the Stephen L. Hester scholarship, and multiple biology scholarships. I worked for the school as a Peer Consultant and worked upwards of 14 hours a week. The Student Success Center reached out to me to apply, and accepted me after the application and interview process. Students of any major schedule meetings with me for success consultations, and I aid in exam prep, procrastination, motivation, and networking between all of the offered help our school provides.I am in the sorority Delta Delta Delta, currently living in the house, and our philanthropic cause is St. Judes Research Hospital. We volunteer a minimum of 20 hours each semester and last year raised over $90,000 for St. Judes. I have 57 service hours over the span of a year. I was accepted to join my sorority’s academic chair, where we create study hours, good-grade incentives, and final exam breakers that include coffee tabs and snow cone stands. After a semester in this position, I was just voted by my sorority to be the Director of Academic Excellence. This position is directly under the president. I am in charge of around 400 girls and their academic success. I hold academic standing meetings, create study plans, and create a positive, educational environment for my sorority. This leadership role is very demanding and I am honored to have been voted. 
+
+I am a member of our school’s Pre-Veterinary Association; We plan for guest speakers and present on local volunteer opportunities around our area. We connect with Veterinarians in the area and offer free clinical assistance. I was appointed as the symposium chair for the Pre-Vet association by my fellow members. Last semester, I volunteered at Final Victory Rescue every week. Every Friday, 8:30-10:00am, I cleaned dog crates, washed bedding, and walked the shelter dogs.  I also volunteer my time at the Carolina Wildlife Center. I feed, clean, and medicate the animals that come into our care. It involves rehabilitation and hands-on medical procedures. They have since offered me a job as a keeper. When home, I volunteer time at my local SPCA in West Chester, PA. 
+This Summer, I attended the University of Nicosia in Cyprus for one month. I was accepted into their Animal Science program where we visited piggeries, hatcheries, farms, veterinary clinics, and one of the most advanced Biogas units in the European Union. This program offered me six course credits and taught me more about animal science. I also traveled to South Africa. For my trip, I completed 65 hours of volunteer service. This study abroad opportunity included providing medical care to cheetahs, veterinary workshops, taking care and managing captive wildlife, performing sutures, and learning about their local cultures.
+
+Capstone has helped me achieve my goals by giving me a community to unite with and motivating me forward. I have always felt welcome by all of capstone, the students and faculty. I felt like it has pushed me to become a better student and person. I received the Capstone study abroad scholarship but the trip was unfortunately canceled. The trip was an intended Maymester in Portugal and England, and I was accepted in the Fall of 2020. This still gave me a stronger bond to our program.
+
+## Looking Ahead
+
+I have been changed for the better. By being a Capstone scholar, I have grown so much under their guidance. I learned about my patience through these experiences as well. I believe this because of my position at the school as a Peer Consultant. I worked with so many different students and learned about all the amazing things that make our school so special. It was such a treat to work with fellow Capstone scholars. I plan on going to Vet school abroad next year. I want to specialize in zoo medicine, especially after I have worked with wildlife for so long. 
+
+![image](https://user-images.githubusercontent.com/1920038/184517069-f4c5db2b-a314-443f-8620-a90cc10827f0.png)
