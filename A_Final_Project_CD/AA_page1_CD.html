@@ -8,6 +8,28 @@
 <style>
 
 </style>
+<script>
+    function randomAnimal() {
+        const date = new Date();
+        if(date.getHours() > 12) {
+            var dayAnimals = [
+                'Bird',
+                'Dog',
+                'Cow'
+            ];
+            var randomNumber = Math.floor(Math.random() * dayAnimals.length);
+            alert(dayAnimals[randomNumber]);
+        }
+        else {
+            var nightAnimals = [
+                'Owl',
+                'Opossum'
+            ];
+            var randomNumber = Math.floor(Math.random() * nightAnimals.length);
+            alert(nightAnimals[randomNumber]);
+        }
+    }
+</script>
 </head>
 
 <body>
@@ -18,6 +40,8 @@
     <h1> The Center</h1>
     <p> Our center has a lot of ammenities for the animals.</p>
     <a href="carolinawildlife.org"> Wildlife Center Link</a>
+    <button onclick="randomAnimal();">Pick at random one of my favorite animals by time of day.</button>
+
 <a href="All_Index_CD.html"> Index Page </a>
 </body>
 <html>
