@@ -1,1 +1,28 @@
-single line comments
+#navig.a {
+    poition: absolute;
+    right: 40pt;
+}
+
+#navig {
+    position: fixed;
+    width: 0;
+    height: 60%;
+    z-index: 1;
+    overflow-x: hidden;
+    background-color: pink;
+    opacity: 0.6;
+    transition: 3s;
+}
+
+.myLinks {
+    position: relative;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+}
+
+.myLinks.a {
+    display: block;
+    font-sze: 25pt;
+    font-weight: bold;
+}
