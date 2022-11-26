@@ -21,8 +21,8 @@
     text-align: center;
 }
 
-.myLinks.a {
+.myLinks>a {
     display: block;
-    font-sze: 25pt;
+    font-size: 50px;
     font-weight: bold;
 }
