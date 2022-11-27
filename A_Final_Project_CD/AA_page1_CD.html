@@ -37,6 +37,22 @@
             alert(nightAnimals[randomNumber]);
         }
     }
+    function quiz() {
+        var wildlifequestionyes = document.getElementById("wildlifequestionYes").checked;
+        var dayTimeAnimals = document.getElementById("daytimeanimals");
+        var dayTimeAnimalSelection = dayTimeAnimals.options[dayTimeAnimals.selectedIndex].text;
+        var nightTimeAnimals = document.getElementById("nighttimeanimals");
+        var nightTimeAnimalSelection = nightTimeAnimals.options[nightTimeAnimals.selectedIndex].text;
+        console.log(nightTimeAnimalSelection);
+        console.log(dayTimeAnimalSelection);
+
+        if (wildlifequestionyes === true && dayTimeAnimalSelection == "Lizards" && nightTimeAnimalSelection == "Owls"){
+            alert("You pass the Quiz");
+        }
+        else {
+            alert("You failed the Quiz");
+        }
+    }
 </script>
 </head>
 
@@ -50,6 +66,29 @@
     <a href="carolinawildlife.org"> Wildlife Center Link</a>
     <button onclick="randomAnimal();">Pick at random one of my favorite animals by time of day.</button>
 
+
+    <form>
+        <label for="wildlifequestionYes">Would you work at this Wildlife Center?:</label><br>
+        <input type="radio" id="wildlifequestionYes" name="wildlifequestion" value="Yes">Yes
+        <input type="radio" id="wildlifequestionNo" name="wildlifequestion" value="No">No
+        <br>
+        <label for="fullname">Enter your Name:</label><br>
+        <input type="text" id="fullname" name="fullname" value="John Doe"><br><br>
+        <label for="nighttimeanimals">Choose a nighttime animal:</label>
+
+        <select name="nighttimeanimals" id="nighttimeanimals">
+            <option value="Owls">Owls</option>
+            <option value="Lizards">Lizards</option>
+        </select>
+        <label for="daytimeanimals">Choose a daytime animal:</label>
+
+        <select name="daytimeanimals" id="daytimeanimals">
+            <option value="Owls">Owls</option>
+            <option value="Lizards">Lizards</option>
+        </select>
+        <br>
+        <button onclick="quiz()">submit </button>
+    </form>
 <a href="All_Index_CD.html"> Index Page </a>
 </body>
 <html>
